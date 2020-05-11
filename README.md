@@ -26,6 +26,7 @@ We have:
 - `live2d-widget-model-miku`
 - `live2d-widget-model-ni-j`
 - `live2d-widget-model-nico`
+- `live2d-widget-model-poi`  
 - `live2d-widget-model-nietzsche`
 - `live2d-widget-model-nipsilon`
 - `live2d-widget-model-nito`
